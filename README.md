@@ -1,2 +1,6 @@
-# destroid-api-php
+# DESTROID API PHP
 Библиотека для работы с API сервиса DESTROID 
+
+Для инитализации библиотеки, напишите include "destroid_api";
+Чтобы создать новый объект библиотеки, напишите $destroid = new DESTROID_API(//id пользователя, //токен);
+Информация будет дополняться
